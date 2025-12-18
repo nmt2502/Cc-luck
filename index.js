@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 3000;
  * 👉 thay khi có link mới
  */
 const SOURCE_APIS = [
-  "https://SOURCE_1/GetNewLottery/LT_TaixiuMD5"
+  "https://1.bot/GetNewLottery/LT_TaixiuMD5"
 ];
 
 const CACHE_FILE = "./cache.json";
